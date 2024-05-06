@@ -1,2 +1,2 @@
-# test
-Testing django with vercel
+# owlcademy
+The ICT Academy landing page of Owlcade
